@@ -4,3 +4,4 @@
 <li> Booking of lockers will be possible by the application provided for the students . </li>
 <li> As there is minimum number of lockers available the locker booking system will be carried out through first come first serve method </li>
 <li> Rich user interface by both website and app.</li>
+<img src = "locknsafe.png"> 
